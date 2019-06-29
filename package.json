@@ -6,7 +6,8 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "letconst": "node ./LetAndConst/main.js"
+    "letconst": "node ./LetAndConst/main.js",
+    "templatestrings" : "node ./TemplateLiterals/main.js"
   },
   "repository": {
     "type": "git",
