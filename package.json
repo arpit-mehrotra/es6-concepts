@@ -1,0 +1,21 @@
+{
+  "name": "es6-concepts",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "letconst": "node ./LetAndConst/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpit-mehrotra/es6-concepts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpit-mehrotra/es6-concepts/issues"
+  },
+  "homepage": "https://github.com/arpit-mehrotra/es6-concepts#readme"
+}
