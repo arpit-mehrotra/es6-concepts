@@ -9,7 +9,8 @@
     "letconst": "node ./LetAndConst/main.js",
     "templatestrings" : "node ./TemplateLiterals/main.js",
     "destructure": "node ./Destructuring/main.js",
-    "forof": "node ./ForOfLoop/main.js"
+    "forof": "node ./ForOfLoop/main.js",
+    "spreadnrest": "node ./SpreadandRest/main.js"
   },
   "repository": {
     "type": "git",
