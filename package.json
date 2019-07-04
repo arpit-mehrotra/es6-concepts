@@ -10,7 +10,8 @@
     "templatestrings" : "node ./TemplateLiterals/main.js",
     "destructure": "node ./Destructuring/main.js",
     "forof": "node ./ForOfLoop/main.js",
-    "spreadnrest": "node ./SpreadandRest/main.js"
+    "spreadnrest": "node ./SpreadandRest/main.js",
+    "arrowfunction": "node ./ArrowFunctions/main.js"
   },
   "repository": {
     "type": "git",
