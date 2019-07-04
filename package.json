@@ -11,7 +11,8 @@
     "destructure": "node ./Destructuring/main.js",
     "forof": "node ./ForOfLoop/main.js",
     "spreadnrest": "node ./SpreadandRest/main.js",
-    "arrowfunction": "node ./ArrowFunctions/main.js"
+    "arrowfunction": "node ./ArrowFunctions/main.js",
+    "defaultparams": "node ./DefaultParameters/main.js"
   },
   "repository": {
     "type": "git",
