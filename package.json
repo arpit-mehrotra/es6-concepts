@@ -16,7 +16,8 @@
     "classes" : "node ./Classes/main.js",
     "symbol" : "node ./Symbol/main.js",
     "protocols" : "node ./Protocols/main.js",
-    "set" : "node ./Set/main.js"
+    "set" : "node ./Set/main.js",
+    "map" : "node ./Map/main.js"
   },
   "repository": {
     "type": "git",
