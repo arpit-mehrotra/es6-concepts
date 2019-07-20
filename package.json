@@ -14,7 +14,8 @@
     "arrowfunction": "node ./ArrowFunctions/main.js",
     "defaultparams": "node ./DefaultParameters/main.js",
     "classes" : "node ./Classes/main.js",
-    "symbol" : "node ./Symbol/main.js"
+    "symbol" : "node ./Symbol/main.js",
+    "protocols" : "node ./Protocols/main.js"
   },
   "repository": {
     "type": "git",
