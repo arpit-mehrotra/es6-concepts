@@ -13,7 +13,8 @@
     "spreadnrest": "node ./SpreadandRest/main.js",
     "arrowfunction": "node ./ArrowFunctions/main.js",
     "defaultparams": "node ./DefaultParameters/main.js",
-    "classes" : "node ./Classes/main.js"
+    "classes" : "node ./Classes/main.js",
+    "symbol" : "node ./Symbol/main.js"
   },
   "repository": {
     "type": "git",
