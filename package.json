@@ -3,21 +3,24 @@
   "version": "1.0.0",
   "description": "",
   "main": ".",
-  "dependencies": {},
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
   "devDependencies": {},
   "scripts": {
     "letconst": "node ./LetAndConst/main.js",
-    "templatestrings" : "node ./TemplateLiterals/main.js",
+    "templatestrings": "node ./TemplateLiterals/main.js",
     "destructure": "node ./Destructuring/main.js",
     "forof": "node ./ForOfLoop/main.js",
     "spreadnrest": "node ./SpreadandRest/main.js",
     "arrowfunction": "node ./ArrowFunctions/main.js",
     "defaultparams": "node ./DefaultParameters/main.js",
-    "classes" : "node ./Classes/main.js",
-    "symbol" : "node ./Symbol/main.js",
-    "protocols" : "node ./Protocols/main.js",
-    "set" : "node ./Set/main.js",
-    "map" : "node ./Map/main.js"
+    "classes": "node ./Classes/main.js",
+    "symbol": "node ./Symbol/main.js",
+    "protocols": "node ./Protocols/main.js",
+    "set": "node ./Set/main.js",
+    "map": "node ./Map/main.js",
+    "promise": "node ./Promise/main.js"
   },
   "repository": {
     "type": "git",
