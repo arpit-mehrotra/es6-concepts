@@ -21,7 +21,8 @@
     "set": "node ./Set/main.js",
     "map": "node ./Map/main.js",
     "promise": "node ./Promise/main.js",
-    "proxy": "node ./Proxy/main.js"
+    "proxy": "node ./Proxy/main.js", 
+    "generator": "node ./Generator/main.js"
   },
   "repository": {
     "type": "git",
