@@ -20,7 +20,8 @@
     "protocols": "node ./Protocols/main.js",
     "set": "node ./Set/main.js",
     "map": "node ./Map/main.js",
-    "promise": "node ./Promise/main.js"
+    "promise": "node ./Promise/main.js",
+    "proxy": "node ./Proxy/main.js"
   },
   "repository": {
     "type": "git",
